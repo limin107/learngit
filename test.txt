@@ -1,5 +1,0 @@
-This is test file.
-This is new test file.
-Git has a mutable index called stage.
-Git tracks changes of files.
-My stupit boss still prefers SVN.
