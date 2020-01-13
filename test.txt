@@ -1,2 +1,4 @@
 学习如何推送到远程仓库
 git push [remote-name] [branch-name]
+学习如何创建轻量标签
+git tag v1.0.1
